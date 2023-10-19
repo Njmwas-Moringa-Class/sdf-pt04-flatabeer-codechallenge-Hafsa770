@@ -3,13 +3,14 @@
     {
       "id": 1,
       "name": "Oh So Flattening",
-      "description": "A light, crisp and bitter IPA brewed with English and American hops. A small batch brewed only once.",
+      "description": "Tastes like memories.",
       "image_url": "https://i.ibb.co/wQ4G0w1/flatiron-brew.png",
       "reviews": [
         "It's flat! Just the way I like it!!",
         "Is this the real beer, is this just fantasy?",
         "I've always hated bubbles going up my nose, so this is absolutely delightful.",
-        "Flat straight out of the bottle! No more waiting for the fizziness to subside. Thank you FlattaBeer!! I love you!!!"
+        "Flat straight out of the bottle! No more waiting for the fizziness to subside. Thank you FlattaBeer!! I love you!!!",
+        "Test review"
       ]
     },
     {
@@ -25,7 +26,7 @@
     {
       "id": 3,
       "name": "Avery Brown Dredge",
-      "description": "We let it sit out in the open air for 12 hours for perfect flatness and add brown sauce for more brownness.",
+      "description": "Tastes like memories.",
       "image_url": "https://images.punkapi.com/v2/5.png",
       "reviews": [
         "Tastes like a weird squid"
@@ -34,7 +35,7 @@
     {
       "id": 4,
       "name": "Electric India",
-      "description": "Tastes like memories",
+      "description": "Tastes like memories.",
       "image_url": "https://images.punkapi.com/v2/6.png",
       "reviews": [
         "I remember nothing"
